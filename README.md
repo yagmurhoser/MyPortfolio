@@ -6,4 +6,5 @@ ASP.NET Core 6.0 <br>
 MS SQL Server <br>
 Code First <br>
 
-
+# # Proje Görselleri
+![1](https://github.com/user-attachments/assets/ecfb779c-05fd-4a94-8a88-4a671970944b)
