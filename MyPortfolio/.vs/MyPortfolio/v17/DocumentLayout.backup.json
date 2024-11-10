@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yagmu\\source\\repos\\MyPortfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D50954A-62AA-48F1-92D8-B168D53D39A3}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\yagmu\\source\\repos\\myportfolio\\myportfolio\\views\\statisticcontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D50954A-62AA-48F1-92D8-B168D53D39A3}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\statisticcontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D50954A-62AA-48F1-92D8-B168D53D39A3}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\yagmu\\source\\repos\\myportfolio\\myportfolio\\controllers\\statisticcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D50954A-62AA-48F1-92D8-B168D53D39A3}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\controllers\\statisticcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D50954A-62AA-48F1-92D8-B168D53D39A3}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\yagmu\\source\\repos\\myportfolio\\myportfolio\\views\\todolistcontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D50954A-62AA-48F1-92D8-B168D53D39A3}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\todolistcontroller1\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D50954A-62AA-48F1-92D8-B168D53D39A3}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\yagmu\\source\\repos\\myportfolio\\myportfolio\\dal\\entities\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D50954A-62AA-48F1-92D8-B168D53D39A3}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\dal\\entities\\todolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D50954A-62AA-48F1-92D8-B168D53D39A3}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\yagmu\\source\\repos\\myportfolio\\myportfolio\\views\\messagecontroller1\\inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D50954A-62AA-48F1-92D8-B168D53D39A3}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\messagecontroller1\\inbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D50954A-62AA-48F1-92D8-B168D53D39A3}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\yagmu\\source\\repos\\myportfolio\\myportfolio\\controllers\\messagecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D50954A-62AA-48F1-92D8-B168D53D39A3}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\controllers\\messagecontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D50954A-62AA-48F1-92D8-B168D53D39A3}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\yagmu\\source\\repos\\myportfolio\\myportfolio\\views\\shared\\components\\_layoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D50954A-62AA-48F1-92D8-B168D53D39A3}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\shared\\components\\_layoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D50954A-62AA-48F1-92D8-B168D53D39A3}|MyPortfolio\\MyPortfolio.csproj|c:\\users\\yagmu\\source\\repos\\myportfolio\\myportfolio\\views\\messagecontroller1\\messagedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D50954A-62AA-48F1-92D8-B168D53D39A3}|MyPortfolio\\MyPortfolio.csproj|solutionrelative:myportfolio\\views\\messagecontroller1\\messagedetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoList.cs",
+              "DocumentMoniker": "C:\\Users\\yagmu\\source\\repos\\MyPortfolio\\MyPortfolio\\DAL\\Entities\\ToDoList.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\DAL\\Entities\\ToDoList.cs",
+              "ToolTip": "C:\\Users\\yagmu\\source\\repos\\MyPortfolio\\MyPortfolio\\DAL\\Entities\\ToDoList.cs",
+              "RelativeToolTip": "MyPortfolio\\DAL\\Entities\\ToDoList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:25:33.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yagmu\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\ToDoListController1\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\ToDoListController1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yagmu\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\ToDoListController1\\Index.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\ToDoListController1\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-10T05:22:36.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\yagmu\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\StatisticController1\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\StatisticController1\\Index.cshtml",
+              "ToolTip": "C:\\Users\\yagmu\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\StatisticController1\\Index.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\StatisticController1\\Index.cshtml",
+              "ViewState": "AgIAAIsAAAAAAAAAAADwv54AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T19:14:35.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StatisticController1.cs",
+              "DocumentMoniker": "C:\\Users\\yagmu\\source\\repos\\MyPortfolio\\MyPortfolio\\Controllers\\StatisticController1.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\Controllers\\StatisticController1.cs",
+              "ToolTip": "C:\\Users\\yagmu\\source\\repos\\MyPortfolio\\MyPortfolio\\Controllers\\StatisticController1.cs",
+              "RelativeToolTip": "MyPortfolio\\Controllers\\StatisticController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:58:56.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\yagmu\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\yagmu\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\Shared\\Components\\_LayoutSidebarComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAH8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T18:58:29.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MessageDetail.cshtml",
+              "DocumentMoniker": "C:\\Users\\yagmu\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\MessageController1\\MessageDetail.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\MessageController1\\MessageDetail.cshtml",
+              "ToolTip": "C:\\Users\\yagmu\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\MessageController1\\MessageDetail.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\MessageController1\\MessageDetail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T18:56:48.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inbox.cshtml",
+              "DocumentMoniker": "C:\\Users\\yagmu\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\MessageController1\\Inbox.cshtml",
+              "RelativeDocumentMoniker": "MyPortfolio\\Views\\MessageController1\\Inbox.cshtml",
+              "ToolTip": "C:\\Users\\yagmu\\source\\repos\\MyPortfolio\\MyPortfolio\\Views\\MessageController1\\Inbox.cshtml",
+              "RelativeToolTip": "MyPortfolio\\Views\\MessageController1\\Inbox.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC8AAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T18:50:26.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageController1.cs",
+              "DocumentMoniker": "C:\\Users\\yagmu\\source\\repos\\MyPortfolio\\MyPortfolio\\Controllers\\MessageController1.cs",
+              "RelativeDocumentMoniker": "MyPortfolio\\Controllers\\MessageController1.cs",
+              "ToolTip": "C:\\Users\\yagmu\\source\\repos\\MyPortfolio\\MyPortfolio\\Controllers\\MessageController1.cs",
+              "RelativeToolTip": "MyPortfolio\\Controllers\\MessageController1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T18:49:52.852Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

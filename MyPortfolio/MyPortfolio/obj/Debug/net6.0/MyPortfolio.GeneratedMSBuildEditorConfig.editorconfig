@@ -1,0 +1,163 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MyPortfolio
+build_property.RootNamespace = MyPortfolio
+build_property.ProjectDir = C:\Users\yagmu\source\repos\MyPortfolio\MyPortfolio\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\yagmu\source\repos\MyPortfolio\MyPortfolio
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/DefaultController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdENvbnRyb2xsZXIxXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/ExperienceController1/CreateExperience.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZUNvbnRyb2xsZXIxXENyZWF0ZUV4cGVyaWVuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/ExperienceController1/ExperienceList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZUNvbnRyb2xsZXIxXEV4cGVyaWVuY2VMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/ExperienceController1/UpdateExperience.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhwZXJpZW5jZUNvbnRyb2xsZXIxXFVwZGF0ZUV4cGVyaWVuY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/LayoutController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0Q29udHJvbGxlcjFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/MessageController1/Inbox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZUNvbnRyb2xsZXIxXEluYm94LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/MessageController1/MessageDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZUNvbnRyb2xsZXIxXE1lc3NhZ2VEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Shared/Components/_AboutComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Fib3V0Q29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Shared/Components/_ContactComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NvbnRhY3RDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Shared/Components/_ExperienceComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0V4cGVyaWVuY2VDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Shared/Components/_FeatureComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0ZlYXR1cmVDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Shared/Components/_FooterComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Zvb3RlckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Shared/Components/_HeadComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0hlYWRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Shared/Components/_LayoutHeadComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dEhlYWRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Shared/Components/_LayoutNavbarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dE5hdmJhckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Shared/Components/_LayoutScriptComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dFNjcmlwdENvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Shared/Components/_LayoutSidebarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0xheW91dFNpZGViYXJDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Shared/Components/_NavbarComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX05hdmJhckNvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Shared/Components/_PortfolioComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1BvcnRmb2xpb0NvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Shared/Components/_SkillComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NraWxsQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Shared/Components/_StatisticComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1N0YXRpc3RpY0NvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Shared/Components/_TestimonialComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1Rlc3RpbW9uaWFsQ29tcG9uZW50UGFydGlhbFxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Skill/CreateSkill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcQ3JlYXRlU2tpbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Skill/SkillList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcU2tpbGxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Skill/UpdateSkill.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcVXBkYXRlU2tpbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/StatisticController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGlzdGljQ29udHJvbGxlcjFcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/ToDoListController1/CreateToDoList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb0xpc3RDb250cm9sbGVyMVxDcmVhdGVUb0RvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/ToDoListController1/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb0xpc3RDb250cm9sbGVyMVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/ToDoListController1/UpdateToDoList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVG9Eb0xpc3RDb250cm9sbGVyMVxVcGRhdGVUb0RvTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/yagmu/source/repos/MyPortfolio/MyPortfolio/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fn2rs6u0d8

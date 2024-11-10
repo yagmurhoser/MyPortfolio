@@ -1,0 +1,200 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/LayoutController1/Index.cshtml";
+}
+
+<head>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+</head>
+
+<div class="content">
+    <div class="container-fluid">
+        <h4 class="page-title">İstatistikler</h4>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="card card-stats card-warning">
+                    <div class="card-body ">
+                        <div class="row">
+                            <div class="col-5">
+                                <div class="icon-big text-center">
+                                    <i class="la la-users"></i>
+                                </div>
+                            </div>
+                            <div class="col-7 d-flex align-items-center">
+                                <div class="numbers">
+                                    <p class="card-category">Yetenek Sayısı</p>
+                                    <h4 class="card-title">@ViewBag.v1</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card card-stats card-success">
+                    <div class="card-body ">
+                        <div class="row">
+                            <div class="col-5">
+                                <div class="icon-big text-center">
+                                    <i class="la la-bar-chart"></i>
+                                </div>
+                            </div>
+                            <div class="col-7 d-flex align-items-center">
+                                <div class="numbers">
+                                    <p class="card-category">Toplam Mesaj</p>
+                                    <h4 class="card-title">@ViewBag.v2</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card card-stats card-danger">
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-5">
+                                <div class="icon-big text-center">
+                                    <i class="la la-newspaper-o"></i>
+                                </div>
+                            </div>
+                            <div class="col-7 d-flex align-items-center">
+                                <div class="numbers">
+                                    <p class="card-category">Okunmamış Mesaj</p>
+                                    <h4 class="card-title">@ViewBag.v3</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card card-stats card-primary">
+                    <div class="card-body ">
+                        <div class="row">
+                            <div class="col-5">
+                                <div class="icon-big text-center">
+                                    <i class="la la-check-circle"></i>
+                                </div>
+                            </div>
+                            <div class="col-7 d-flex align-items-center">
+                                <div class="numbers">
+                                    <p class="card-category">Okunan Mesaj</p>
+                                    <h4 class="card-title">@ViewBag.v4</h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+        <br />
+
+
+        <div class="row">
+            <div class="col-md-3">
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="card-title">Task</h4>
+
+                        <h4>@ViewBag.v5 Yapılmamış Görev</h4>
+                        <form asp-action="Add" method="post">                      
+                            <br />
+                            <br />
+                            <a href="/ToDoListController1/Index/" class="btn btn-primary">Göreve Git</a>                  
+                        </form>
+                    </div>
+                    <div class="card-body">
+                        <canvas id="taskChart" width="200" height="200"></canvas>
+                    </div>
+                    <div class="card-footer">
+                        <div class="legend"><i class="la la-circle text-primary"></i> Completed</div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="col-md-9">
+                <div class="card">
+                    <div class="card-header">
+                        <div id="map" style="height: 400px;"></div>
+
+                        <h4 class="card-title">World Map</h4>
+                        <p class="card-category">
+                            Map of the distribution of users around the world
+                        </p>
+                    </div>
+                    <div class="card-body">
+                        <div class="mapcontainer">
+                            <div class="map">
+                                <span>Alternative content for the map</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+
+        <br />
+
+        <div class="row">
+            <div class="col-md-3">
+                <div class="card">
+                    <div class="card-header">                   
+                        <h4>@ViewBag.v3 Okunmamış Mesaj</h4>
+                        <form asp-action="Add" method="post">
+                            <br />
+                            <br />
+                            <a href="/MessageController1/Inbox/" class="btn btn-primary">Mesaja Git</a>
+                        </form>
+                    </div>    
+                </div>
+            </div>
+
+
+    </div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script>
+    var map = L.map('map').setView([51.505, -0.09], 13); // [latitude, longitude], zoom level
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+
+    L.marker([51.505, -0.09]).addTo(map)
+        .bindPopup('A sample marker.')
+        .openPopup();
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    // Örnek veri
+    const completedTasks = @ViewBag.v6; // Tamamlanmış görev sayısı
+    const pendingTasks = @ViewBag.v5; // Tamamlanmamış görev sayısı
+
+    const ctx = document.getElementById('taskChart').getContext('2d');
+    const taskChart = new Chart(ctx, {
+        type: 'doughnut',
+        data: {
+            labels: ['Tamamlanmış Görevler', 'Yapılmamış Görevler'],
+            datasets: [{
+                data: [completedTasks, pendingTasks],
+                backgroundColor: ['#4caf50', '#f44336'], // Renkleri özelleştirebilirsin
+            }]
+        },
+        options: {
+            responsive: true,
+            maintainAspectRatio: false,
+        }
+    });
+</script>
+
